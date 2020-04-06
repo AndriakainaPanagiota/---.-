@@ -21,7 +21,9 @@ O μύθος του Σαμψών και της Δαλιδά #3 αναπαρίσ�
 height="227"/>
 
 <br/>
+
 **Samson and Delilah ,Peter Paul Rubens(1609)**
+
 <br/>
 <img src=SamsonBlind.jpg title="Η τύφλωση του Samson,Rembrandt(1636)" width="300" 
 height="227"/>
