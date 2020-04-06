@@ -8,7 +8,7 @@
  
 Ο μύθος διηγείται μια ιερή ιστορία, μεταφέρει ωστόσο ένα μήνυμα για την πραγματικότητα, τις ανθρώπινες πράξεις και σχέσεις.  
  
-Εάν προσεγγίσουμε τον μύθο μέσα από μια επιστημονική οπτική, τότε θα καταλήξουμε πιθανόν στο συμπέρασμα ότι πρόκειται για μια ψευδή, μη ορθή, εξήγηση. Ωστόσο, η λειτουργία του μύθου είναι συμβολική, οφείλει συνεπώς να κατανοηθεί στο πλαίσιο μιας κοινωνίας και ενός πολιτισμού όπου ο μύθος επιτελεί μια κοινωνική λειτουργία [link](#link1) , δηλαδή αποτελεί μια προσπάθεια ελέγχου του κόσμου και της φύσης.  
+Εάν προσεγγίσουμε τον μύθο μέσα από μια επιστημονική οπτική, τότε θα καταλήξουμε πιθανόν στο συμπέρασμα ότι πρόκειται για μια ψευδή, μη ορθή, εξήγηση. Ωστόσο, η λειτουργία του μύθου είναι συμβολική, οφείλει συνεπώς να κατανοηθεί στο πλαίσιο μιας κοινωνίας και ενός πολιτισμού όπου ο μύθος επιτελεί μια κοινωνική λειτουργία [[1]](#link1) , δηλαδή αποτελεί μια προσπάθεια ελέγχου του κόσμου και της φύσης.  
  
 Στο πεδίο της τέχνης, ο μύθος παίζει ένα σημαντικό ρόλο κυρίως στους Ρομαντικούς. Για παράδειγμα, το *Ηχώ και Νάρκισσος* του John William Waterhouse #2#  εμπνέεται από τον σχετικό μύθο του Οβίδιου. Ο ρομαντισμός ως κίνημα ασκώντας κριτική στην θετικιστική  ορθολογικότητα του διαφωτισμού δεν υποτιμά τη μυθική προσέγγιση του κόσμου, ως προερχόμενη από ένα προ-μοντέρνο, κατώτερο στάδιο ιστορικής ανάπτυξης.
 
@@ -71,17 +71,17 @@ height="203"/>
 
 ## Βιβλιογραφία-Ιστογραφία
 
-<a name=link1></a> 1.[Το έργο του Γερμανού φιλοσόφου Ernst Cassirer «The Myth of the State»](http://ikee.lib.auth.gr/record/123835/files/KASSARIS.pdf)
+<a name=link1></a> [1].[Το έργο του Γερμανού φιλοσόφου Ernst Cassirer «The Myth of the State»](http://ikee.lib.auth.gr/record/123835/files/KASSARIS.pdf)
 
-2.[Ο Νάρκισσος και η Ηχώ.](https://www.researchgate.net/publication/331577384_O_Narkissos_kai_e_Echo)
+[2].[Ο Νάρκισσος και η Ηχώ.](https://www.researchgate.net/publication/331577384_O_Narkissos_kai_e_Echo)
 
-3.[Επιτομή του μεγάλου λεξικού της ελληνικής γλώσσης](https://books.google.gr/books?id=x7erBwAAQBAJ&pg=PA840&lpg=PA840&dq=%CE%BC%CF%85%CE%B8%CE%BF%CF%82+%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&source=bl&ots=1YhsrBl_-C&sig=ACfU3U1H26jT-1IPmao3JtOSfCw8mGjyAA&hl=en&sa=X&ved=2ahUKEwj4mMP5iMzoAhWRyKQKHfL6AkUQ6AEwB3oECAwQKQ#v=onepage&q=%CE%BC%CF%85%CE%B8%CE%BF%CF%82%20%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&f=false)
+[3].[Επιτομή του μεγάλου λεξικού της ελληνικής γλώσσης](https://books.google.gr/books?id=x7erBwAAQBAJ&pg=PA840&lpg=PA840&dq=%CE%BC%CF%85%CE%B8%CE%BF%CF%82+%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&source=bl&ots=1YhsrBl_-C&sig=ACfU3U1H26jT-1IPmao3JtOSfCw8mGjyAA&hl=en&sa=X&ved=2ahUKEwj4mMP5iMzoAhWRyKQKHfL6AkUQ6AEwB3oECAwQKQ#v=onepage&q=%CE%BC%CF%85%CE%B8%CE%BF%CF%82%20%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&f=false)
 
-4.[Ορισμός αφήγημα](https://el.wiktionary.org/wiki/%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CE%BC%CE%B1)
+[4].[Ορισμός αφήγημα](https://el.wiktionary.org/wiki/%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CE%BC%CE%B1)
 
-5.[Νίκος Δασκαλοθανάσης. Ο καλλιτέχνης ως ιστορικό υποκείμενο από τον 19ο στον 21ο αιώνα. Εκδόσεις Άγρα,  Αθήνα 2012,  σελ. 64.]
+[5].[Νίκος Δασκαλοθανάσης. Ο καλλιτέχνης ως ιστορικό υποκείμενο από τον 19ο στον 21ο αιώνα. Εκδόσεις Άγρα,  Αθήνα 2012,  σελ. 64.]
 (https://www.politeianet.gr/books/9789603255611-daskalothanasis-nikos-agra-o-kallitechnis-os-istoriko-upokeimeno-apo-ton-19o-ston-21o-aiona-176781)
 
-6.[  Ε.H.Combrich.Το χρονικό της τέχνης. Αθήνα: Μορφωτικό Ίδρυμα της Εθνικής Τράπεζας.σελ.510](https://www.politeianet.gr/books/9789602501443-gombrich-hans-ernst-miet-morfotiko-idruma-ethnikis-trapezis-to-chroniko-tis-technis-chartodeti-ekdosi-194722)
+[6].[  Ε.H.Combrich.Το χρονικό της τέχνης. Αθήνα: Μορφωτικό Ίδρυμα της Εθνικής Τράπεζας.σελ.510](https://www.politeianet.gr/books/9789602501443-gombrich-hans-ernst-miet-morfotiko-idruma-ethnikis-trapezis-to-chroniko-tis-technis-chartodeti-ekdosi-194722)
 
 
