@@ -75,13 +75,13 @@ height="203"/>
 
 <a name=link2></a> [2]. [Ο Νάρκισσος και η Ηχώ.](https://www.researchgate.net/publication/331577384_O_Narkissos_kai_e_Echo)
 
-<a name=link2></a> [3]. [Επιτομή του μεγάλου λεξικού της ελληνικής γλώσσης](https://books.google.gr/books?id=x7erBwAAQBAJ&pg=PA840&lpg=PA840&dq=%CE%BC%CF%85%CE%B8%CE%BF%CF%82+%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&source=bl&ots=1YhsrBl_-C&sig=ACfU3U1H26jT-1IPmao3JtOSfCw8mGjyAA&hl=en&sa=X&ved=2ahUKEwj4mMP5iMzoAhWRyKQKHfL6AkUQ6AEwB3oECAwQKQ#v=onepage&q=%CE%BC%CF%85%CE%B8%CE%BF%CF%82%20%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&f=false)
+<a name=link3></a> [3]. [Επιτομή του μεγάλου λεξικού της ελληνικής γλώσσης](https://books.google.gr/books?id=x7erBwAAQBAJ&pg=PA840&lpg=PA840&dq=%CE%BC%CF%85%CE%B8%CE%BF%CF%82+%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&source=bl&ots=1YhsrBl_-C&sig=ACfU3U1H26jT-1IPmao3JtOSfCw8mGjyAA&hl=en&sa=X&ved=2ahUKEwj4mMP5iMzoAhWRyKQKHfL6AkUQ6AEwB3oECAwQKQ#v=onepage&q=%CE%BC%CF%85%CE%B8%CE%BF%CF%82%20%CE%B1%CF%86%CE%B7%CE%B3%CE%B7%CE%BC%CE%B1&f=false)
 
-<a name=link2></a> [4]. [Ορισμός αφήγημα](https://el.wiktionary.org/wiki/%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CE%BC%CE%B1)
+<a name=link4></a> [4]. [Ορισμός αφήγημα](https://el.wiktionary.org/wiki/%CE%B1%CF%86%CE%AE%CE%B3%CE%B7%CE%BC%CE%B1)
 
-<a name=link2></a> [5]. [Νίκος Δασκαλοθανάσης. Ο καλλιτέχνης ως ιστορικό υποκείμενο από τον 19ο στον 21ο αιώνα. Εκδόσεις Άγρα,  Αθήνα 2012,  σελ. 64.]
+<a name=link5></a> [5]. [Νίκος Δασκαλοθανάσης. Ο καλλιτέχνης ως ιστορικό υποκείμενο από τον 19ο στον 21ο αιώνα. Εκδόσεις Άγρα,  Αθήνα 2012,  σελ. 64.]
 (https://www.politeianet.gr/books/9789603255611-daskalothanasis-nikos-agra-o-kallitechnis-os-istoriko-upokeimeno-apo-ton-19o-ston-21o-aiona-176781)
 
-<a name=link2></a> [6]. [  Ε.H.Combrich.Το χρονικό της τέχνης. Αθήνα: Μορφωτικό Ίδρυμα της Εθνικής Τράπεζας.σελ.510](https://www.politeianet.gr/books/9789602501443-gombrich-hans-ernst-miet-morfotiko-idruma-ethnikis-trapezis-to-chroniko-tis-technis-chartodeti-ekdosi-194722)
+<a name=link6></a> [6]. [  Ε.H.Combrich.Το χρονικό της τέχνης. Αθήνα: Μορφωτικό Ίδρυμα της Εθνικής Τράπεζας.σελ.510](https://www.politeianet.gr/books/9789602501443-gombrich-hans-ernst-miet-morfotiko-idruma-ethnikis-trapezis-to-chroniko-tis-technis-chartodeti-ekdosi-194722)
 
 
